@@ -7,6 +7,10 @@ Testing different configuration to verify the Spring Boot Performance
 
 ### General
 
+ * https://www.baeldung.com/java-10-performance-improvements
+ * http://trustmeiamadeveloper.com/2016/03/18/where-is-my-memory-java/
+ * http://openjdk.java.net/jeps/310
+ * https://blog.codefx.org/java/application-class-data-sharing/
  * https://easyperf.net/blog/2019/10/05/Performance-Analysis-Of-MT-apps
  * https://blog.idrsolutions.com/2014/04/profiling-vs-sampling-java-visualvm/
  * https://events.static.linuxfound.org/sites/events/files/slides/20151006-linux-performance-profiling-monitoring_0.pdf
