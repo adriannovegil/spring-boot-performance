@@ -28,8 +28,19 @@ Testing different configuration to verify the Spring Boot Performance
 
 ### Examples
 
+ * https://spring.io/blog/2018/12/12/how-fast-is-spring
+ * http://blog.gilliard.lol/2017/10/02/JVM-startup.html
+ * https://github.com/dsyer/spring-boot-startup-bench/blob/master/startup.adoc
+ * https://spring.io/blog/2018/10/22/functional-bean-registrations-in-spring-cloud-function
+ * https://github.com/dsyer/spring-boot-allocations
+ 
  * https://dev.to/bufferings/lets-make-springboot-app-start-faster-k9m
  * https://github.com/bufferings/spring-boot-startup-mybench
+ * https://blog.ippon.tech/spring-5-webflux-performance-tests/
+ * https://stackoverflow.com/questions/50632719/how-to-use-application-class-data-sharing-feature-of-java-10
+ * http://openjdk.java.net/jeps/310
+ * https://www.baeldung.com/java-10-performance-improvements
+ * https://blog.codefx.org/java/application-class-data-sharing/
  * https://github.com/cancerian0684/spring-boot-2-performance
  * https://github.com/dsyer/spring-boot-startup-bench
  * https://github.com/dsyer/spring-boot-memory-blog
